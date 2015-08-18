@@ -1,6 +1,5 @@
 # ArtooTrills_Bounty-QA-Zomato
-Here is the my work done. I could not complete due to time constraint. Hope you understand this.
- 
+Here is the my work done. 
 Please find the following attachments: 
  
 1. Excel spreadsheet containing few sample  test case examples on Zomato website. 
